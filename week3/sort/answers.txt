@@ -1,0 +1,12 @@
+sort1 uses: Bubble Sort
+
+How do you know!: In sorted10000 list, sort2 algorithm is the fastest(0m0.093s) one which means it sorts the numbers in Ω(n) complexity.Additionally, it has the highest runtime(0m0.288s) in reversed10000 list.
+
+sort2 uses: Merge Sort
+
+How do you know!: It has overall lowest runtime among the others. To examplify, in random10000 list, sort2 has under 0m0.100s runtime whereas the others has above 0m0.150s.
+
+
+sort3 uses: Selection Sort
+
+How do you know!: It has the highest runtime in sorted lists. Besides, it's faster compared to bubble sort(sort1cd ) in reversed lists.
